@@ -15,9 +15,11 @@ This program is part of the CEG4912 project which is designed by **Group 2 of Se
 ## Collection Data
 These datas are needed to train the program.
 ### Dataset Collection Checklist
-- [ ] 50 images of the same object for each class
+- [x] 50 images of the same object for each class
 - [ ] 3-4 classes for the problem
 - [ ] Shapes will be very different between calsses
-- [ ] Scale photos to 96x96 pixels
+- [x] Scale photos to 96x96 pixels
 - [x] Bitmap or PNG format
 - [ ] Similar distance, position, lighting, and background
+### Example
+<img src="images/image_clection.png" width="250" height="250">
