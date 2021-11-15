@@ -15,6 +15,8 @@ This program is part of the CEG4912 project which is designed by **Group 2 of Se
 2. 
 ## Documentation
 * numPy.py: Conversion between image and array.
+* capture_pi.py: Capture 1 image with pi camera.  
+script " for i in {1..10}; do python capture_pi.py; done " to capture 10 images.
 ## Collection Data
 These datas are needed to train the program.
 ### Dataset Collection Checklist
