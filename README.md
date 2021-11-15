@@ -36,6 +36,7 @@ These datas are needed to train the program.
 1. VS code: sudo apt upgrade code
 2. Pip: sudo apt-get install python-pip
 3. NumPy: pip install scipy
-4. Opencv2: pip install opencv-python==
+4. Opencv2: pip install opencv-python==   
+notes: Need to install one package: sudo apt-get install libatlas-base-dev
 5. Picamera: pip install picamera  
 notes: Cannot install picamera on Windows System.
