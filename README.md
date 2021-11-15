@@ -31,5 +31,5 @@ These datas are needed to train the program.
 1. Pip: sudo apt-get install python-pip
 2. NumPy: pip install scipy
 3. Opencv2: pip install opency-python==
-4. Picamera: pip install picamera
+4. Picamera: pip install picamera  
 notes: Cannot install picamera on Windows System.
