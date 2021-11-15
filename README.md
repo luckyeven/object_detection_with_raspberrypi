@@ -36,6 +36,6 @@ These datas are needed to train the program.
 1. VS code: sudo apt upgrade code
 2. Pip: sudo apt-get install python-pip
 3. NumPy: pip install scipy
-4. Opencv2: pip install opency-python==
+4. Opencv2: pip install opencv-python==
 5. Picamera: pip install picamera  
 notes: Cannot install picamera on Windows System.
