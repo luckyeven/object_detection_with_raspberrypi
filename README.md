@@ -1,5 +1,8 @@
 # object_detection_with_raspberrypi
- Computer vision with embedded machine learning using raspberry pi 4
+***I'd like to give very special thanks to Mr.ShawnHymeL for great lectures.***  
+ ## Reference
+ Learned from "Computer Vision with Embedded Machine Learning" by Shawn Hymel on Coursera.  More details check below:  
+  [1] ShawnHymeL's repository .   [ [Source code]( https://github.com/ShawnHymel/computer-vision-with-embedded-machine-learning.git) ]
 
 ## Introduction
 This program is part of the CEG4912 project which is designed by **Group 2 of Section F00 for 2021 Fall Term**. Two cameras are used to monitor the EDM.One of the cameras will use an intelligent algorithm to identify the input numbers.The program will send an error signal when any error input is detected. 
