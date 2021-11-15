@@ -28,6 +28,7 @@ These datas are needed to train the program.
 <img src="images/image_clection.png" width="250" height="250">
 
 ## Index
-1. Install pip
+1. Pip: sudo apt-get install python-pip
 2. NumPy: pip install scipy
 3. Opencv2: pip install opency-python==
+4. Picamera: pip install picamera
