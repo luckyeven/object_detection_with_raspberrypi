@@ -26,3 +26,8 @@ These datas are needed to train the program.
 - [ ] Similar distance, position, lighting, and background
 ### Example
 <img src="images/image_clection.png" width="250" height="250">
+
+## Index
+1. Install pip
+2. NumPy: pip install scipy
+3. Opencv2: pip install opency-python==
