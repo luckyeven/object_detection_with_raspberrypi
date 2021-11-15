@@ -28,8 +28,14 @@ These datas are needed to train the program.
 <img src="images/image_clection.png" width="250" height="250">
 
 ## Index
-1. Pip: sudo apt-get install python-pip
-2. NumPy: pip install scipy
-3. Opencv2: pip install opency-python==
-4. Picamera: pip install picamera  
+#### Updata python3 on Raspberry pi:  
+1. sudo apt install python3 idle3
+#### Update-alternatives:
+2. sudo update-alternatives --install /usr/bin/python python /usr/bin/python3 10
+#### Some programs
+1. VS code: sudo apt upgrade code
+2. Pip: sudo apt-get install python-pip
+3. NumPy: pip install scipy
+4. Opencv2: pip install opency-python==
+5. Picamera: pip install picamera  
 notes: Cannot install picamera on Windows System.
