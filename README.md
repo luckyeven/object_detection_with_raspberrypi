@@ -42,3 +42,4 @@ These datas are needed to train the program.
 notes: Need to install one package: sudo apt-get install libatlas-base-dev
 5. Picamera: pip install picamera  
 notes: Cannot install picamera on Windows System.
+6. Tensorflow and Keras: pip install tensorflow
