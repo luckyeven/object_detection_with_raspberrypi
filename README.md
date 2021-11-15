@@ -32,3 +32,4 @@ These datas are needed to train the program.
 2. NumPy: pip install scipy
 3. Opencv2: pip install opency-python==
 4. Picamera: pip install picamera
+notes: Cannot install picamera on Windows System.
