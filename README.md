@@ -47,3 +47,4 @@ notes: Cannot install picamera on Windows System.
 7. skimage: pip install-image
 Image processing in python
 8. sklearn: pip install scikit-learn
+9. dege-impulse-linux 1.0.6: pip install edge_impulse_linux
