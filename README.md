@@ -34,7 +34,7 @@ These datas are needed to train the program.
 1. sudo apt install python3 idle3
 #### Update-alternatives:
 2. sudo update-alternatives --install /usr/bin/python python /usr/bin/python3 10
-#### Some programs
+#### Some programs and liberaries
 1. VS code: sudo apt upgrade code
 2. Pip: sudo apt-get install python-pip
 3. NumPy: pip install scipy
@@ -42,5 +42,8 @@ These datas are needed to train the program.
 notes: Need to install one package: sudo apt-get install libatlas-base-dev
 5. Picamera: pip install picamera  
 notes: Cannot install picamera on Windows System.
-6. Tensorflow and Keras: pip install tensorflow
-
+6. Tensorflow and Keras: pip install tensorflow==1.14.0
+                         pip install keras==2.7.0
+7. skimage: pip install-image
+Image processing in python
+8. sklearn: pip install scikit-learn
