@@ -1,5 +1,5 @@
 # object_detection_with_raspberrypi
-***I'd like to give very special thanks to Mr.ShawnHymeL for great lectures.***  
+
  ## Reference
  Learned from "Computer Vision with Embedded Machine Learning" by Shawn Hymel on Coursera.  More details check below:  
   [1] ShawnHymeL's repository .   [ [Source code]( https://github.com/ShawnHymel/computer-vision-with-embedded-machine-learning.git) ]
