@@ -19,7 +19,7 @@ This program is part of the CEG4912 project which is designed by **Group 2 of Se
 script " for i in {1..10}; do python capture_pi.py; done " to capture 10 images.
 * image_classifier.py: Classify image sets.
 ## Collection Data
-These datas are needed to train the program.
+capture_pi.py is used to capture images.
 ### Dataset Collection Checklist
 - [x] 50 images of the same object for each class
 - [ ] 3-4 classes for the problem
