@@ -28,10 +28,27 @@ These datas are needed to train the program.
 - [x] Bitmap or PNG format
 - [ ] Similar distance, position, lighting, and background
 ### Example
-<img src="images/image_clection.png" width="250" height="250">
+<img src=" " width="250" height="250">  
 
+## DeployModel using Edge Impulse to Raspberry pi
+#### Edge Impulse  
+Edge Impulse for Linux is the easiest way to build Machine Learning solutions on real embedded hardware. It contains tools which let you collect data from any microphone or camera, can be used with the Node.js, Python, Go and C++ SDKs to collect new data from any sensor, and can run impulses with full hardware acceleration 
+
+1. Install dependencies
+```
+curl -sL https://deb.nodesource.com/setup_12.x | sudo bash -
+sudo apt install -y gcc g++ make build-essential nodejs sox gstreamer1.0-tools gstreamer1.0-plugins-good gstreamer1.0-plugins-base gstreamer1.0-plugins-base-apps
+npm config set user root && sudo npm install edge-impulse-linux -g --unsafe-perm
+```
+2. Install required Python SDK 
+
+This library lets you run machine learning models and collect sensor data on Linux machines using Python. The SDK is open source and hosted on GitHub: edgeimpulse/linux-sdk-python.
+```
+sudo apt-get install libatlas-base-dev libportaudio0 libportaudio2 libportaudiocpp0 portaudio19-dev
+pip3 install edge_impulse_linux -i https://pypi.python.org/simple
+```
 ## Index
-#### Updata python3 on Raspberry pi:  
+#### Updata python3 on Raspberry pi:
 1. sudo apt install python3 idle3
 #### Update-alternatives:
 2. sudo update-alternatives --install /usr/bin/python python /usr/bin/python3 10
